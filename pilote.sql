@@ -10,7 +10,7 @@ CREATE TABLE Pilote
 
 
 
-INSERT INTO Pilote VALUES('PL-1','Gratien','viel','dba', 100 ,'AF');
+INSERT INTO Pilote VALUES('PL-1','Gratien','trasin','dba', 100 ,'AF');
 INSERT INTO Pilote VALUES('PL-2','Didier','donsez','smith', 400 ,'AF');
 INSERT INTO Pilote VALUES('PL-3','richard','GrIN','Faucon', 900 ,'SING');
 INSERT INTO Pilote VALUES('PL-4','Placide','Fresnais','cool', 600 ,'AF');
